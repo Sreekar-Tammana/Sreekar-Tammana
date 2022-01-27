@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="https://github.com/Sreekar-Tammana" target="_blank" rel="noreferrer"><img src="![Custom Size – 2](https://user-images.githubusercontent.com/42037409/151420771-d41e71c9-004f-4613-a1f0-85ca18cfc4a0.png)" alt="my banner"></a>
+  ![Custom Size – 2](https://user-images.githubusercontent.com/42037409/151420822-0cfecbc0-3dd8-4bda-ab10-a397de87e793.png)
 </p>
 
 <h3 align="center">
