@@ -1,6 +1,6 @@
 
 <p align="center">
-  ![Custom Size – 2](https://user-images.githubusercontent.com/42037409/151420822-0cfecbc0-3dd8-4bda-ab10-a397de87e793.png)
+  <img src="https://user-images.githubusercontent.com/42037409/151420822-0cfecbc0-3dd8-4bda-ab10-a397de87e793.png"/>
 </p>
 
 <h3 align="center">
