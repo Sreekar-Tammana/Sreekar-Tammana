@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/75753187/123350185-74ce0900-d528-11eb-848d-d92955dbb944.png" alt="my banner"></a>
+  <a href="https://github.com/Sreekar-Tammana" target="_blank" rel="noreferrer"><img src="![Custom Size – 2](https://user-images.githubusercontent.com/42037409/151420771-d41e71c9-004f-4613-a1f0-85ca18cfc4a0.png)" alt="my banner"></a>
 </p>
 
 <h3 align="center">
