@@ -1,7 +1,7 @@
 Hi 👋, I'm Sreekar Tammana
 ======================
 
-### A passionate Mechatronics engineer from India
+### A passionate Computer Science engineer from India
 
 -   🔭 I'm currently Learning Data Science & Machine learning.
 -   👀 I'm interested in Wed dev, ML, and DS.
