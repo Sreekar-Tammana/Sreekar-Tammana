@@ -1,3 +1,5 @@
+![Linkedin-banner (3)](https://user-images.githubusercontent.com/42037409/225227918-e5f7366c-1265-4aa1-a145-61073c028534.png)
+
 <h1 align="center">Hi 👋, I'm Sreekar Tammana</h1>
 <h3 align="center">A Passionate Computer Science Engineer from India</h3>
 
