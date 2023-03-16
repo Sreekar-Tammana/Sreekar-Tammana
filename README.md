@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/sreekartammana" target="blank"><img src="https://img.shields.io/twitter/follow/sreekartammana?logo=twitter&style=for-the-badge" alt="sreekartammana" /></a> </p>
 
-- 🔭 I’m currently working on **Twitter User Profiling**
+<!-- - 🔭 I’m currently working on **Twitter User Profiling** -->
 
 - 🌱 I’m currently learning **Machine Learning, Data Science**
 
