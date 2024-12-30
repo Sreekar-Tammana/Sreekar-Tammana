@@ -11,15 +11,11 @@
 
 <!-- - 🔭 I’m currently working on **Twitter User Profiling** -->
 
-- 🌱 I’m currently learning **Machine Learning, Data Science**
-
 - 👯 I’m looking to collaborate on **Machine Learning, Data Science Projects**
 
 - 🍀 I'm interested in **ML, DS, Open Source, Web development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sreekar-Tammana](https://github.com/Sreekar-Tammana)
-
-- 📝 I regularly write articles on [https://sreekartammana.hashnode.dev/](https://sreekartammana.hashnode.dev/)
 
 - 📫 How to reach me **sreekartammana@gmail.com**
 
