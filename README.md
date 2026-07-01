@@ -10,12 +10,6 @@
 
 <br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sreekar-Tammana&label=Profile%20views&color=7DD3FC&style=flat-square" alt="Profile views" />
-</p>
-
-<br/>
-
 ## About
 
 I work on projects around machine learning, computer vision, automation, and frontend product workflows.
@@ -44,18 +38,6 @@ I work on projects around machine learning, computer vision, automation, and fro
   <img src="https://skillicons.dev/icons?i=angular,nodejs,python,js,opencv" />
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/LangChain-DFF7F5?style=flat-square&logo=chainlink&logoColor=0F172A&labelColor=7DD3FC&color=DFF7F5" />
-</p>
-
-<br/>
-
-## GitHub Activity
-
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sreekar-Tammana&show_icons=true&locale=en&layout=compact&theme=transparent&title_color=7DD3FC&text_color=E5E7EB&border_color=7DD3FC" alt="Top languages" />
-</p>
-
 <br/>
 
 ## Connect
@@ -64,16 +46,10 @@ I work on projects around machine learning, computer vision, automation, and fro
   <a href="https://github.com/Sreekar-Tammana">
     <img src="https://img.shields.io/badge/github-DFF7F5?style=flat-square&logo=github&logoColor=0F172A&labelColor=7DD3FC&color=DFF7F5" />
   </a>
-  <a href="https://linkedin.com/in/sreekar-tammana">
+  <a href="https://www.linkedin.com/in/sreekar-tammana">
     <img src="https://img.shields.io/badge/linkedin-DFF7F5?style=flat-square&logo=linkedin&logoColor=0F172A&labelColor=7DD3FC&color=DFF7F5" />
   </a>
-  <a href="https://twitter.com/sreekartammana">
-    <img src="https://img.shields.io/badge/twitter-DFF7F5?style=flat-square&logo=x&logoColor=0F172A&labelColor=7DD3FC&color=DFF7F5" />
-  </a>
-  <a href="https://hashnode.com/@sreekartammana">
-    <img src="https://img.shields.io/badge/hashnode-DFF7F5?style=flat-square&logo=hashnode&logoColor=0F172A&labelColor=7DD3FC&color=DFF7F5" />
-  </a>
-  <a href="mailto:sreekartammana@gmail.com">
+  <a href="mailto:sreekar2122002@gmail.com">
     <img src="https://img.shields.io/badge/email-DFF7F5?style=flat-square&logo=gmail&logoColor=0F172A&labelColor=7DD3FC&color=DFF7F5" />
   </a>
 </p>
