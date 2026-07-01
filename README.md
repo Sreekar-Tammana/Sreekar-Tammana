@@ -1,16 +1,16 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=DCEEFF&height=160&section=header&text=Sreekar%20Tammana&fontSize=38&fontColor=222222&animation=fadeIn&fontAlignY=35&desc=ML%20%7C%20Computer%20Vision%20%7C%20Data%20Analytics&descSize=15&descAlignY=58" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=DCEEFF&height=190&section=header&text=Sreekar%20Tammana&fontSize=44&fontColor=1F2937&animation=fadeIn&fontAlignY=36&desc=ML%20%7C%20Computer%20Vision%20%7C%20Data%20Analytics&descSize=19&descAlignY=60&descColor=4B5563" />
 </p>
 
 <h3 align="center">Building practical ML, computer vision, and data-driven product ideas.</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=2800&pause=900&color=222222&center=true&vCenter=true&width=600&lines=Angular+%2B+Node.js+Developer;Python+%2B+OpenCV+Explorer;Building+with+LangChain+and+AI+Workflows" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&duration=2800&pause=900&color=DCEEFF&center=true&vCenter=true&width=700&lines=Building+with+LangChain+and+AI+workflows;Angular+%2B+Node.js+Developer;Python+%2B+OpenCV+Explorer" />
 </p>
 
 <br/>
 
-### About
+## About
 
 I work on projects around machine learning, computer vision, automation, and frontend product workflows.
 
@@ -21,7 +21,7 @@ I work on projects around machine learning, computer vision, automation, and fro
 
 <br/>
 
-### Selected Work
+## Selected Work
 
 | Project | Focus |
 |---|---|
@@ -32,34 +32,32 @@ I work on projects around machine learning, computer vision, automation, and fro
 
 <br/>
 
-### Stack
+## Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=angular,nodejs,python,js,opencv" />
 </p>
 
-<p>
-  <code>LangChain</code>
-</p>
+<!-- LangChain is kept in the About section instead of forcing an ugly fake icon -->
 
 <br/>
 
-### Connect
+## Connect
 
 <p align="left">
   <a href="https://github.com/Sreekar-Tammana">
-    <img src="https://img.shields.io/badge/github-DCEEFF?style=flat&logo=github&logoColor=222222" />
+    <img src="https://img.shields.io/badge/github-DCEEFF?style=flat-square&logo=github&logoColor=1F2937&labelColor=DCEEFF&color=DCEEFF" />
   </a>
   <a href="https://www.linkedin.com/in/sreekar-tammana">
-    <img src="https://img.shields.io/badge/linkedin-DCEEFF?style=flat&logo=linkedin&logoColor=222222" />
+    <img src="https://img.shields.io/badge/linkedin-DCEEFF?style=flat-square&logo=linkedin&logoColor=1F2937&labelColor=DCEEFF&color=DCEEFF" />
   </a>
-  <a href="mailto:sreekartammana@gmail.com">
-    <img src="https://img.shields.io/badge/email-DCEEFF?style=flat&logo=gmail&logoColor=222222" />
+  <a href="mailto:sreekar2122002@gmail.com">
+    <img src="https://img.shields.io/badge/email-DCEEFF?style=flat-square&logo=gmail&logoColor=1F2937&labelColor=DCEEFF&color=DCEEFF" />
   </a>
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=DCEEFF&height=90&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=DCEEFF&height=100&section=footer" />
 </p>
