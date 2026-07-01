@@ -1,44 +1,70 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=DCEEFF&height=120&section=header&text=Sreekar%20Tammana&fontSize=34&fontColor=222222&desc=ML%20%7C%20Computer%20Vision%20%7C%20Data%20Analytics&descSize=14&descAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=DCEEFF&height=160&section=header&text=Sreekar%20Tammana&fontSize=38&fontColor=222222&animation=fadeIn&fontAlignY=35&desc=ML%20%7C%20Computer%20Vision%20%7C%20Data%20Analytics&descSize=15&descAlignY=58" />
 </p>
 
-<h3 align="center">Building practical ML, computer vision, and data analytics projects.</h3>
+<h3 align="center">Building practical ML, computer vision, and data-driven product ideas.</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=2800&pause=900&color=222222&center=true&vCenter=true&width=600&lines=Angular+%2B+Node.js+Developer;Python+%2B+OpenCV+Explorer;Building+with+LangChain+and+AI+Workflows" />
+</p>
 
 <br/>
 
 ### About
 
-I work on projects around machine learning, computer vision, and data-driven product ideas.
+I work on projects around machine learning, computer vision, automation, and frontend product workflows.
 
 * Exploring practical applications of **ML and Computer Vision**
-* Interested in **data analytics, automation, and frontend product workflows**
-* Currently improving my ability to build cleaner, useful, end-to-end projects
+* Building cleaner interfaces with **Angular and JavaScript**
+* Experimenting with **LangChain, Python, and AI workflows**
+* Improving at turning ideas into useful, end-to-end projects
 
 <br/>
 
 ### Selected Work
 
-| Project                | Focus                     |
-| ---------------------- | ------------------------- |
-| Text Detection         | Computer Vision           |
-| Shape Detection        | OpenCV / Image Processing |
-| Twitter User Profiling | Data Science              |
-| Tesla Clone            | Frontend Development      |
+| Project                    | Focus                     |
+| -------------------------- | ------------------------- |
+| **Text Detection**         | Computer Vision           |
+| **Shape Detection**        | OpenCV / Image Processing |
+| **Twitter User Profiling** | Data Science              |
+| **Tesla Clone**            | Frontend Development      |
 
 <br/>
 
 ### Stack
 
-**Frontend:** Angular, JavaScript
-**Backend / Runtime:** Node.js
-**AI / ML:** Python, LangChain, OpenCV
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=angular,nodejs,python,js,opencv" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/LangChain-FFFDF7?style=for-the-badge&logo=chainlink&logoColor=222222&labelColor=DCEEFF" />
+  <img src="https://img.shields.io/badge/Angular-FFFDF7?style=for-the-badge&logo=angular&logoColor=222222&labelColor=DCEEFF" />
+  <img src="https://img.shields.io/badge/Node.js-FFFDF7?style=for-the-badge&logo=nodedotjs&logoColor=222222&labelColor=DCEEFF" />
+  <img src="https://img.shields.io/badge/Python-FFFDF7?style=for-the-badge&logo=python&logoColor=222222&labelColor=DCEEFF" />
+  <img src="https://img.shields.io/badge/JavaScript-FFFDF7?style=for-the-badge&logo=javascript&logoColor=222222&labelColor=DCEEFF" />
+  <img src="https://img.shields.io/badge/OpenCV-FFFDF7?style=for-the-badge&logo=opencv&logoColor=222222&labelColor=DCEEFF" />
+</p>
 
 <br/>
 
 ### Connect
 
-<p>
-  <a href="https://github.com/Sreekar-Tammana">GitHub</a> ·
-  <a href="https://www.linkedin.com/in/sreekar-tammana">LinkedIn</a> ·
-  <a href="mailto:sreekartammana@gmail.com">Email</a>
+<p align="left">
+  <a href="https://github.com/Sreekar-Tammana">
+    <img src="https://img.shields.io/badge/GitHub-FFFDF7?style=for-the-badge&logo=github&logoColor=222222&labelColor=DCEEFF" />
+  </a>
+  <a href="https://www.linkedin.com/in/sreekar-tammana">
+    <img src="https://img.shields.io/badge/LinkedIn-FFFDF7?style=for-the-badge&logo=linkedin&logoColor=222222&labelColor=DCEEFF" />
+  </a>
+  <a href="mailto:sreekartammana@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FFFDF7?style=for-the-badge&logo=gmail&logoColor=222222&labelColor=DCEEFF" />
+  </a>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=DCEEFF&height=90&section=footer" />
 </p>
