@@ -14,21 +14,21 @@
 
 I work on projects around machine learning, computer vision, automation, and frontend product workflows.
 
-* Exploring practical applications of **ML and Computer Vision**
-* Building cleaner interfaces with **Angular and JavaScript**
-* Experimenting with **LangChain, Python, and AI workflows**
-* Improving at turning ideas into useful, end-to-end projects
+- Exploring practical applications of **ML and Computer Vision**
+- Building cleaner interfaces with **Angular and JavaScript**
+- Experimenting with **LangChain, Python, and AI workflows**
+- Improving at turning ideas into useful, end-to-end projects
 
 <br/>
 
 ### Selected Work
 
-| Project                    | Focus                     |
-| -------------------------- | ------------------------- |
-| **Text Detection**         | Computer Vision           |
-| **Shape Detection**        | OpenCV / Image Processing |
-| **Twitter User Profiling** | Data Science              |
-| **Tesla Clone**            | Frontend Development      |
+| Project | Focus |
+|---|---|
+| **Text Detection** | Computer Vision |
+| **Shape Detection** | OpenCV / Image Processing |
+| **Twitter User Profiling** | Data Science |
+| **Tesla Clone** | Frontend Development |
 
 <br/>
 
@@ -38,13 +38,8 @@ I work on projects around machine learning, computer vision, automation, and fro
   <img src="https://skillicons.dev/icons?i=angular,nodejs,python,js,opencv" />
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/LangChain-FFFDF7?style=for-the-badge&logo=chainlink&logoColor=222222&labelColor=DCEEFF" />
-  <img src="https://img.shields.io/badge/Angular-FFFDF7?style=for-the-badge&logo=angular&logoColor=222222&labelColor=DCEEFF" />
-  <img src="https://img.shields.io/badge/Node.js-FFFDF7?style=for-the-badge&logo=nodedotjs&logoColor=222222&labelColor=DCEEFF" />
-  <img src="https://img.shields.io/badge/Python-FFFDF7?style=for-the-badge&logo=python&logoColor=222222&labelColor=DCEEFF" />
-  <img src="https://img.shields.io/badge/JavaScript-FFFDF7?style=for-the-badge&logo=javascript&logoColor=222222&labelColor=DCEEFF" />
-  <img src="https://img.shields.io/badge/OpenCV-FFFDF7?style=for-the-badge&logo=opencv&logoColor=222222&labelColor=DCEEFF" />
+<p>
+  <code>LangChain</code>
 </p>
 
 <br/>
@@ -53,13 +48,13 @@ I work on projects around machine learning, computer vision, automation, and fro
 
 <p align="left">
   <a href="https://github.com/Sreekar-Tammana">
-    <img src="https://img.shields.io/badge/GitHub-FFFDF7?style=for-the-badge&logo=github&logoColor=222222&labelColor=DCEEFF" />
+    <img src="https://img.shields.io/badge/github-DCEEFF?style=flat&logo=github&logoColor=222222" />
   </a>
   <a href="https://www.linkedin.com/in/sreekar-tammana">
-    <img src="https://img.shields.io/badge/LinkedIn-FFFDF7?style=for-the-badge&logo=linkedin&logoColor=222222&labelColor=DCEEFF" />
+    <img src="https://img.shields.io/badge/linkedin-DCEEFF?style=flat&logo=linkedin&logoColor=222222" />
   </a>
   <a href="mailto:sreekartammana@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FFFDF7?style=for-the-badge&logo=gmail&logoColor=222222&labelColor=DCEEFF" />
+    <img src="https://img.shields.io/badge/email-DCEEFF?style=flat&logo=gmail&logoColor=222222" />
   </a>
 </p>
 
