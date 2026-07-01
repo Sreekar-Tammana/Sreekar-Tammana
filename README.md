@@ -29,10 +29,9 @@ I work on projects around machine learning, computer vision, and data-driven pro
 
 ### Stack
 
-**Languages:** Python, JavaScript, SQL
-**ML / Data:** Pandas, Scikit-learn, OpenCV
-**Frontend:** HTML, CSS, React
-**Tools:** Git, GitHub, Figma
+**Frontend:** Angular, JavaScript
+**Backend / Runtime:** Node.js
+**AI / ML:** Python, LangChain, OpenCV
 
 <br/>
 
